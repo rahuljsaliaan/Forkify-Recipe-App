@@ -43,7 +43,6 @@ export const loadRecipe = async function (id) {
 
 export const loadSearchResult = async function (query) {
   try {
-    if (!query) throw new Error('No Recipes Found!');
     state.search.query = query;
     const data = await AJAX(`${API_URL}?search=${query}&key=${API_KEY}`);
     state.search.results = data.data.recipes.map(recipe => {
