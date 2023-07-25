@@ -29,6 +29,7 @@ The Recipe App is hosted on Netlify, making it easily accessible to users. You c
 - HTML5
 - CSS3
 - JavaScript
+- Parcel
 
 ## Contributions
 
