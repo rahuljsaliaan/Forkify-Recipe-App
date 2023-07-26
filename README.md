@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_SITE_ID_HERE/deploy-status)](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_ID_HERE)
 # Forkify Project
 
 Greetings from our Recipe Application! Users can contribute their own original recipes to the website to share with the community in addition to exploring a large selection of recipes. This platform is made to make it easier for you to find and share delectable recipes, whether you are a passionate home cook or a seasoned chef.
