@@ -6,7 +6,7 @@ Greetings from our Recipe Application! Users can contribute their own original r
 
 ## Live App
 
-The Recipe App is hosted on Netlify, making it easily accessible to users. You can visit the live app at [https://your-recipe-app-url.netlify.app](https://your-recipe-app-url.netlify.app).
+Check out the live demo of the project [🌟 <span style="font-weight: bold; color: #ff6f00; text-decoration: underline; font-size: 1.2em;">Explore Now!</span> 🌟](https://forkify-rahuljsaliaan.netlify.app/).
 
 ## Features
 
