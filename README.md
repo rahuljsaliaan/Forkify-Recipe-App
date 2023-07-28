@@ -33,10 +33,6 @@ Check out the live demo of the project [🌟 <span style="font-weight: bold; col
 - JavaScript
 - Parcel
 
-## Contributions
-
-Contributions to the Recipe App are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request. Let's collaborate and make this recipe-sharing platform even better!
-
 ---
 
 Thank you for your interest in the Recipe App! We hope you enjoy exploring and sharing delicious recipes with the community. If you have any questions or encounter any issues, please don't hesitate to contact us. Happy cooking! 🍳🥗🍰
