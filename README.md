@@ -1,4 +1,4 @@
-# Forkify Project
+# Forkify-Recipe-App Application
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cf910066-f95c-44e4-aff1-608121df6d1b/deploy-status)](https://app.netlify.com/sites/forkify-rahuljsaliaan/deploys)
 
